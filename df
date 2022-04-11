@@ -1,4 +1,4 @@
-print(Helo world!)
+print("Hello world!")
 x = int(input())
 if x > 5:
     print("go to home")
