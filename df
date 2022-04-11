@@ -1,1 +1,8 @@
 print(Helo world!)
+x = int(input())
+if x > 5:
+    print("go to home")
+else:
+    print("party")
+    
+    
